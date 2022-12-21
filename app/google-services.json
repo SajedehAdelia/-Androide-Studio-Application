@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1027482609106",
+    "project_id": "fre-news",
+    "storage_bucket": "fre-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027482609106:android:e4c695a02deda0a3e6140b",
+        "android_client_info": {
+          "package_name": "com.company.FRENews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027482609106-bsiqs6jg0s779mn95906p2gkj3o64eel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWovYLbeUt61DXHizHWPcrFz5wjX6ZBkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027482609106-bsiqs6jg0s779mn95906p2gkj3o64eel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027482609106:android:641eb519adaad9f2e6140b",
+        "android_client_info": {
+          "package_name": "com.example.cookingmama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027482609106-bsiqs6jg0s779mn95906p2gkj3o64eel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWovYLbeUt61DXHizHWPcrFz5wjX6ZBkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027482609106-bsiqs6jg0s779mn95906p2gkj3o64eel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
