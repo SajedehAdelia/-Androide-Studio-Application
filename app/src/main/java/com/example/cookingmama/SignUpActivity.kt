@@ -10,7 +10,7 @@ import com.example.cookingmama.databinding.ActivityMainBinding
 import com.google.firebase.auth.FirebaseAuth
 
 class SignUpActivity : AppCompatActivity() {
-
+//it doesn't find the signUp class even though i added the activity to manifest and have .kt and .xml of it. Don't know what to do honestly
     private lateinit var binding:ActivitySignUpBinding
     private lateinit var firebaseAuth:FirebaseAuth
 
@@ -20,7 +20,6 @@ class SignUpActivity : AppCompatActivity() {
         binding = ActivitySignUpBinding.inflate(layoutInflater)
         setContentView(binding.root)
         firebaseAuth = FirebaseAuth.getInstance()
-
 
         binding.textView.setOnClickListener{
             val intent = Intent( this, LoginActivity::class.java)
